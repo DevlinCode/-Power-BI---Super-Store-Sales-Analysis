@@ -57,25 +57,25 @@ The dashboard includes the following visualizations:
 
 1. Sum of Sales by Region: Pie chart showing sales distribution across different regions (East 29%, Central 22%, South 16%, West 33%).
 2. Sum of Sales by Segment: Pie chart depicting sales across different customer segments:
-  * Consumer: 48%
-  * Corporate: 33%
-  * Home Office: 19%
+    * Consumer: 48%
+    * Corporate: 33%
+    * Home Office: 19%
 3. Monthly Sales Year-on-Year: Line graph comparing sales over time for 2019 and 2020.
 4. Sum of Sales by Payment Mode: Pie chart showing the distribution of payment methods:
-  * Online: 35%
-  * Cards: 22%
-  * Cash on Delivery: 43%
+    * Online: 35%
+    * Cards: 22%
+    * Cash on Delivery: 43%
 5. Monthly Profit Year-on-Year: Line graph displaying monthly profit for 2019 and 2020.
 6. Sales by Ship Mode: Bar chart representing sales across different shipping methods:
-  * Standard Class: 0.33M
-  * Second Class: 0.11M
-  * First Class: 0.08M
-  * Same Day: 0.03M
+    * Standard Class: 0.33M
+    * Second Class: 0.11M
+    * First Class: 0.08M
+    * Same Day: 0.03M
 7. Sales by Sub-Category: Bar chart showing sales in different sub-categories such as phones, chairs, and binders.
 8. Sales by Category: Bar chart displaying sales in the following categories:
-  * Office Supplies: 0.64M
-  * Technology: 0.47M
-  * Furniture: 0.45M
+    * Office Supplies: 0.64M
+    * Technology: 0.47M
+    * Furniture: 0.45M
 9. Sum of Sales and Sum of Profit by State: Map of the United States showing the geographic distribution of sales and profit.
 
 <a id='7'></a>
